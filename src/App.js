@@ -1,4 +1,4 @@
-import Birkenstock from "./components/Brand/Birkenstock/Birkenstock";
+import Birkenstock from "./components/Birkenstock/Birkenstock";
 import Brand from "./components/Brand/Brand";
 import './scss/style.scss'
 
