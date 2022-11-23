@@ -1,0 +1,45 @@
+.birkenstock{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    background: url('../assets/Birkenstock/image\ 60.svg') no-repeat center;
+    background-size: cover;
+    &__blook{
+        padding: 237px 0 239px;
+        text-align: center;
+}
+    &__h3{
+        font-family: 'Cormorant';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #EAE9E8;
+    }
+    &__title{
+        text-align: center;
+        font-family: 'Cormorant';
+        font-style: normal;
+        font-weight: 100;
+        font-size: 50px;
+        line-height: 70px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #EAE9E8;
+    }
+    &__p{
+        font-family: 'Avenir';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 19px;
+        text-align: center;
+        padding: 0 449px;
+        color: #FFFFFF;
+
+    }
+}
